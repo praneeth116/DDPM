@@ -1,1 +1,1 @@
-<p>Denoising Diffusion Probabilistic Modelsssss</p>
+<p>Denoising Diffusion Probabilistic Models</p>
